@@ -1,0 +1,6 @@
+$bg: rgb(51, 25, 25);
+$danger: black;
+@import "bootstrap/scss/bootstrap";
+body {
+  background-color: $bg;
+}
